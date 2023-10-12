@@ -49,6 +49,7 @@ public class Main {
 			System.out.printf("%f의 레벨이 %d가 되었습니다", hero_name, hero_level);
 			hero_money+=100;
 			System.out.printf("레벨업 기념으로 돈이 100원 증가하여 %d원이 되었습니다", hero_money);
+			System.out.println("********************");
 		}
 	}
 	
